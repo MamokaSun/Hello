@@ -1,2 +1,1 @@
-Hello my friend!
-# test1
+Hello
